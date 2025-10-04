@@ -58,7 +58,8 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 <img width="859" height="624" alt="image" src="https://github.com/user-attachments/assets/ce33ec17-dfd8-4337-9e66-7ebb7d5de934" />
 
 <img width="506" height="593" alt="image" src="https://github.com/user-attachments/assets/237c84aa-3d51-4e9f-8b8a-6d673065183e" />
-![Uploading image.png…]()
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9fa90375-5885-4ede-bcc9-26b12fc368cc" />
+
 
 
 
